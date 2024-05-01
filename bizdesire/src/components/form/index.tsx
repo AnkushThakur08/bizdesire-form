@@ -29,7 +29,7 @@ const UserForm: React.FC = () => {
     return (
         <>
             <div>
-                <h1>Signup</h1>
+                <h1>React JS Machine Test</h1>
                 <Formik
                     initialValues ={{
                         firstName: '',
